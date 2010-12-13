@@ -26,7 +26,7 @@ Some useful keys:
 Thanks
 ======
 
-GOELDNER Frank : new FDM and liveries
+FrankG : new FDM and liveries
 
 ===============
 BARANGER Emmanuel
@@ -63,7 +63,7 @@ Quelques touches utiles :
 Remerciements
 =============
 
-GOELDNER Frank : nouveau FDM et livrées
+FrankG : nouveau FDM et livrées
 
 ===============
 BARANGER Emmanuel
@@ -100,7 +100,7 @@ NŸtzliche TastaturkŸrzel :
 Dank
 =============
 
-GOELDNER Frank : neue FDM und ausgeliefert
+FrankG : neue FDM und ausgeliefert
 
 ===============
 BARANGER Emmanuel
