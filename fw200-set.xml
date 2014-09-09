@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <PropertyList include="fw200-jsbsim-cnf.xml"> -->
+<PropertyList include="fw200-yasim-cnf.xml">
+
+  <sim>
+    <description>Focke-Wulf Fw 200</description>
+    <author>BARANGER Emmanuel / FrankG</author>
+  </sim>
+
+</PropertyList>
+
