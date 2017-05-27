@@ -15,6 +15,20 @@ Novembre 2010 FrankG
     <flight-model>yasim</flight-model>
     <aero>fw200-yasim</aero>
 
+    <tags>
+      <tag>focke-wulf</tag>
+      <tag>low-wing</tag>
+      <tag>tail-dragger</tag>
+      <tag>retractable-gear</tag>
+      <tag>transport</tag>
+      <tag>four-engine</tag>
+      <tag>piston</tag>
+      <tag>radial</tag>
+      <tag>supercharged</tag>
+      <tag>1940s</tag>
+      <tag>ww2</tag>
+    </tags>
+
   </sim>
 
 </PropertyList>
